@@ -1,3 +1,4 @@
+![Dispaly image](https://i.ibb.co/8cTPXQx/black-and-pink-neon-futuristic-album-cover-New-Linked-In-Banner-2.png)
 # 💫 About Me:
 👋 Hi, I'm Ayesha, a full-stack web developer.<br>💻 Team player thriving in collaboration, with a unique skill set.<br>🤖 Passionately exploring new technologies to enhance my expertise.<br>🌐 Let's code the future together!
 
